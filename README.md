@@ -1,4 +1,4 @@
-# like_app
+# instagram_list
 
 This app displays several Instagram post cards. The purpose is to practice refactoring classes and using models
 
