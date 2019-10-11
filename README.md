@@ -1,6 +1,6 @@
 # like_app
 
-This app displays an Instagram post card. The purpose is to practice Stateful Widget by clicking like button
+This app displays several Instagram post cards. The purpose is to practice refactoring classes and using models
 
 ## Getting Started
 
